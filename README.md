@@ -6,7 +6,12 @@ Good Question. I have an example for you:
 Someone sends you the typical "Anarchy Token Grabber" you can decompile the exe file and search for the Webhook and Spam some Messages on it.
 
 # Which Python Modules do I need?
-You will just need the requests Module
+You need following Modules:
+-requests
+-colorama
+-os
+-platform
+-threading
 
 # How can i exit the Spammer?
 Press Cmd+C or close the window
