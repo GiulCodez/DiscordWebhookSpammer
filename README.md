@@ -11,7 +11,6 @@ You need following Modules:
 -colorama
 -os
 -platform
--threading
 
 # How can i exit the Spammer?
 Press Cmd+C or close the window
