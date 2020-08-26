@@ -46,7 +46,4 @@ def send(i):
     return i
 i = 0
 while True: #loop
-   i = send(i) # since its getting ratelimited anyways, there should be no need for threading
-   # if True:
-   #     tr = threading.Thread(target=send)
-   #     tr.start()
+   i = send(i)
